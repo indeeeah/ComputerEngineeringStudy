@@ -6,7 +6,7 @@ int main(void){
     int i;
     for(i = 0; i < 5; i++){
         printf("%d ", *(a+i));
-        // printf("%d ", a+i);
+        // printf("%d\n ", a+i);   // 자료형의 크기만큼 이동 (int 이므로 4byte)
     }
     return 0;
 }
