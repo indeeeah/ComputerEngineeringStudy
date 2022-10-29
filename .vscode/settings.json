@@ -62,6 +62,7 @@
         "vector": "cpp",
         "algorithm": "cpp",
         "queue": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "set": "cpp"
     }
 }
