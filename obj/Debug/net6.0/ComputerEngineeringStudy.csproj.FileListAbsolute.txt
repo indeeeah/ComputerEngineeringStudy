@@ -1,0 +1,15 @@
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/bin/Debug/net6.0/ComputerEngineeringStudy
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/bin/Debug/net6.0/ComputerEngineeringStudy.deps.json
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/bin/Debug/net6.0/ComputerEngineeringStudy.runtimeconfig.json
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/bin/Debug/net6.0/ComputerEngineeringStudy.dll
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/bin/Debug/net6.0/ComputerEngineeringStudy.pdb
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.csproj.AssemblyReference.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.AssemblyInfoInputs.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.AssemblyInfo.cs
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.csproj.CoreCompileInputs.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.dll
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/refint/ComputerEngineeringStudy.dll
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.pdb
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ComputerEngineeringStudy.genruntimeconfig.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/obj/Debug/net6.0/ref/ComputerEngineeringStudy.dll
