@@ -1,0 +1,15 @@
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/bin/Debug/net6.0/part1_chapter4_7
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/bin/Debug/net6.0/part1_chapter4_7.deps.json
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/bin/Debug/net6.0/part1_chapter4_7.runtimeconfig.json
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/bin/Debug/net6.0/part1_chapter4_7.dll
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/bin/Debug/net6.0/part1_chapter4_7.pdb
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.csproj.AssemblyReference.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.AssemblyInfoInputs.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.AssemblyInfo.cs
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.csproj.CoreCompileInputs.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.dll
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/refint/part1_chapter4_7.dll
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.pdb
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/part1_chapter4_7.genruntimeconfig.cache
+/Users/gimsumin/computer_programming/computer_engineering/ComputerEngineeringStudy/part1_chapter4_7/obj/Debug/net6.0/ref/part1_chapter4_7.dll
