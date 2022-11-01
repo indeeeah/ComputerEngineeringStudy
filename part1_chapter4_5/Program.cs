@@ -8,6 +8,7 @@ namespace ConsoleApp1 {
             list.Add("김수민");
             list.Add("이순신");
             list.Add("홍길동");
+            
             Console.WriteLine(list[0]);
             Console.WriteLine(list[1]);
             Console.WriteLine(list[2]);
