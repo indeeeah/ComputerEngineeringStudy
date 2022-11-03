@@ -41,6 +41,12 @@
 + [[C언어 퀵 정렬 알고리즘] 퀵 정렬 구현하기](https://www.notion.so/indeeah/C-03d73284605f4bda84edb2a1fd1fbd26)
 + [[C언어 계수 정렬 알고리즘] 계수 정렬 구현하기](https://www.notion.so/indeeah/C-6448c3d7805e4b5d99156dec7466dc08)
 + [[C언어 기수 정렬 알고리즘] 기수 정렬 구현하기](https://www.notion.so/indeeah/C-e674ba0ffe3d48318eac0bab5152d8c4)
++ [[C언어 이진 트리 알고리즘] 이진 트리 구현 및 순회 구현하기](https://www.notion.so/indeeah/C-ca2d4b1476d14875b6c598fce99645fa)
++ [[C언어 우선순위 큐 알고리즘] 우선순위 큐 구현하기](https://www.notion.so/indeeah/C-e45664d9fd4d4469adf8f19703b7ce20)
++ [[C언어 순차탐색 알고리즘] 순차탐색 구현하기](https://www.notion.so/indeeah/C-6ae8b062b98a4556b094e6579a2b8500)
++ [[C언어 이진탐색 알고리즘] 이진탐색 구현하기](https://www.notion.so/indeeah/C-f61d2059516e4144ab73c58a7ff4de5e)
++ [[C언어 무방향 비가중치 그래프 알고리즘] 무방향 비가중치 그래프와 인접 행렬](https://www.notion.so/indeeah/C-0ea1f099041743f4b0dd08ff1856028a)
++ [[C언어 방향 가중치 그래프 알고리즘] 방향 가중치 그래프와 인접 리스트](https://www.notion.so/indeeah/C-cf1b1c23e45c424288600802a55f0fae)
 #
 ### 운영체제
 #
