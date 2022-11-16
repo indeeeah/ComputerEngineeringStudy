@@ -47,6 +47,7 @@
 + [[C언어 이진탐색 알고리즘] 이진탐색 구현하기](https://www.notion.so/indeeah/C-f61d2059516e4144ab73c58a7ff4de5e)
 + [[C언어 무방향 비가중치 그래프 알고리즘] 무방향 비가중치 그래프와 인접 행렬](https://www.notion.so/indeeah/C-0ea1f099041743f4b0dd08ff1856028a)
 + [[C언어 방향 가중치 그래프 알고리즘] 방향 가중치 그래프와 인접 리스트](https://www.notion.so/indeeah/C-cf1b1c23e45c424288600802a55f0fae)
++ [[C언어 깊이 우선 탐색 알고리즘] 깊이 우선 탐색 구현하기](https://www.notion.so/indeeah/C-a04cc2fbd0b54cabac85fac91d42489c)
 #
 ### 운영체제
 #
